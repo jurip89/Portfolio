@@ -10,11 +10,11 @@ module.exports = {
     siteTitle: `Juri Portfolio`,
     siteTitleAlt: `Portfolio`,
     siteHeadline: `Juri Portfolio`,
-    siteUrl: `https://cara.lekoarts.de`,
+    siteUrl: `https://juri-parladore-portfolio.netlify.app/`,
     siteDescription: `My portfolio`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `Juri`,
   },
   plugins: [
     {
